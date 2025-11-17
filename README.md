@@ -1,4 +1,6 @@
 AlgoTribute — Finance Quantitative Utility Suite
+
+
 <img width="548" height="557" alt="image" src="https://github.com/user-attachments/assets/63ffb2ed-cf4a-417e-ae2c-1a45bf33fae5" />
 
 Une suite de 4 outils Python indépendants, pratiques et simples, dédiés à l’analyse financière, l’optimisation et les tests de robustesse.
